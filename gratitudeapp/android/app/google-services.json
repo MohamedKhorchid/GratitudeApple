@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521866091888",
+    "project_id": "gratitudeapp-3d5e6",
+    "storage_bucket": "gratitudeapp-3d5e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521866091888:android:3ab1cdfafa106e197403b5",
+        "android_client_info": {
+          "package_name": "com.mycompany.gratitudeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSgTjZhNkU0Pce25vhM_zUraYTFQa9BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
