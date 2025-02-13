@@ -1,0 +1,1 @@
+ C:\\Users\\Chick\\OneDrive\\Applications\\Apple\\GratitudeApple\\gratitudeapp\\.dart_tool\\flutter_build\\211b4efeceaa7358aea1a7e9b206ac70\\native_assets.json: 

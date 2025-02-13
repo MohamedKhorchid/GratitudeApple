@@ -1,0 +1,2 @@
+C:/Users/Chick/OneDrive/Applications/Apple/GratitudeApple/gratitudeapp/android/app/.cxx/Debug/0ln693u5/x86/CMakeFiles/edit_cache.dir
+C:/Users/Chick/OneDrive/Applications/Apple/GratitudeApple/gratitudeapp/android/app/.cxx/Debug/0ln693u5/x86/CMakeFiles/rebuild_cache.dir

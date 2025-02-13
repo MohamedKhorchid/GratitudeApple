@@ -1,1 +1,0 @@
- C:\\Users\\Chick\\OneDrive\\Applications\\Apple\\GratitudeApple\\gratitudeapp\\.dart_tool\\flutter_build\\a31f48a2d35c6223b8b0074b10575381\\native_assets.yaml: 
