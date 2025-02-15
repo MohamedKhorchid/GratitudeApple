@@ -777,7 +777,7 @@
     },
     {
       "name": "webview_flutter_wkwebview",
-      "rootUri": "file:///C:/Users/Chick/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_wkwebview-3.18.0",
+      "rootUri": "file:///C:/Users/Chick/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_wkwebview-3.18.1",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -806,7 +806,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-02-13T18:13:04.071704Z",
+  "generated": "2025-02-15T12:47:48.776265Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///C:/Users/Chick/Downloads/flutter_windows_3.27.0-stable/flutter",

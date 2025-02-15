@@ -316,13 +316,6 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Calificar en la App Store',
       'pt': 'Avalie na App Store',
     },
-    '2os6f6x0': {
-      'fr': 'Noter sur le Play Store',
-      'ar': 'قم بالتقييم على متجر Play',
-      'en': 'Rate on the Play Store',
-      'es': 'Califica en Play Store',
-      'pt': 'Avalie na Play Store',
-    },
   },
   // loginPage
   {

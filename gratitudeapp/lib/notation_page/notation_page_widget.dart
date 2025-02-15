@@ -62,7 +62,7 @@ class _NotationPageWidgetState extends State<NotationPageWidget> {
           child: Align(
             alignment: AlignmentDirectional(0.0, 0.0),
             child: Padding(
-              padding: EdgeInsetsDirectional.fromSTEB(24.0, 24.0, 24.0, 0.0),
+              padding: EdgeInsetsDirectional.fromSTEB(24.0, 24.0, 24.0, 24.0),
               child: SingleChildScrollView(
                 primary: false,
                 child: Column(
@@ -194,35 +194,6 @@ class _NotationPageWidgetState extends State<NotationPageWidget> {
                       },
                       text: FFLocalizations.of(context).getText(
                         'oek9rfo1' /* Noter sur l'App Store */,
-                      ),
-                      icon: Icon(
-                        Icons.rate_review,
-                        size: 15.0,
-                      ),
-                      options: FFButtonOptions(
-                        width: MediaQuery.sizeOf(context).width * 1.0,
-                        height: 56.0,
-                        padding: EdgeInsets.all(8.0),
-                        iconPadding:
-                            EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                        color: Color(0xFFDB7093),
-                        textStyle:
-                            FlutterFlowTheme.of(context).titleMedium.override(
-                                  fontFamily: 'Inter Tight',
-                                  color: Colors.white,
-                                  letterSpacing: 0.0,
-                                ),
-                        elevation: 3.0,
-                        borderRadius: BorderRadius.circular(28.0),
-                      ),
-                    ),
-                    FFButtonWidget(
-                      onPressed: () async {
-                        await launchURL(
-                            'https://play.google.com/store/apps/details?id=com.mycompany.gratitudeapp');
-                      },
-                      text: FFLocalizations.of(context).getText(
-                        '2os6f6x0' /* Noter sur le Play Store */,
                       ),
                       icon: Icon(
                         Icons.rate_review,

@@ -83,13 +83,14 @@ class FFAppState extends ChangeNotifier {
     prefs.setString('ff_gratitude5', value);
   }
 
-  DateTime? _selecteddate;
+  DateTime? _selecteddate = DateTime.fromMillisecondsSinceEpoch(1738413060000);
   DateTime? get selecteddate => _selecteddate;
   set selecteddate(DateTime? value) {
     _selecteddate = value;
   }
 
-  DateTime? _lastTimeNoteGratitude;
+  DateTime? _lastTimeNoteGratitude =
+      DateTime.fromMillisecondsSinceEpoch(1738412880000);
   DateTime? get lastTimeNoteGratitude => _lastTimeNoteGratitude;
   set lastTimeNoteGratitude(DateTime? value) {
     _lastTimeNoteGratitude = value;
