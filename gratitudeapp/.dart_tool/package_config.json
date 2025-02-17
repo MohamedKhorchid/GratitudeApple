@@ -141,9 +141,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/Chick/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.3",
+      "rootUri": "file:///C:/Users/Chick/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.4",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.7"
     },
     {
       "name": "file",
@@ -806,7 +806,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-02-15T12:47:48.776265Z",
+  "generated": "2025-02-17T13:46:34.547529Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///C:/Users/Chick/Downloads/flutter_windows_3.27.0-stable/flutter",
